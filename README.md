@@ -113,3 +113,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 - Naam
 	- email: e-mailadres
 	- GitHub: github-account
+
+-Sophie Moons
+	-email: moonssophie@gmail.com
+	-GitHub: SophieMoons
