@@ -239,3 +239,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 31. Ben Vaes
 	- email: ben.vaes@student.kdg.be
 	- GitHub: https://github.com/BenVaes/
+
+32. Sophie Moons
+	- email: sophie.moons@student.kdg.be
+	- GitHub: https://github.com/SophieMoons/
